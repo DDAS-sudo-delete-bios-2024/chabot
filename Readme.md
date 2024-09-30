@@ -43,3 +43,7 @@ Hence, in such a scenario, an **LLM-based chatbot** could prove useful. The chat
 ```bash
 streamlit run chatbot.py
 ```
+
+## Screenshots
+
+![Sample chat](./sample_chat.png)
